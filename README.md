@@ -12,4 +12,4 @@ Classes and objects are created. The 'car.py' file creates the class Car and the
 
 ## UML
 
-[![UML](alt "UML")](https://github.com/bbzet/OOP/blob/main/UML.png)
+[![UML](alt "UML")]([https://github.com/bbzet/OOP/blob/main/UML.png](https://i.ibb.co/F4Dfkj4m/drawio.png))
