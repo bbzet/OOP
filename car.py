@@ -16,16 +16,16 @@ class Car:
 
     def start(self):
         if not self.started:
-            print('Machine get started')
+            print(f'{self.model} get started')
             self.started = True
         else:
-            print('Machine is already started')
+            print(f'{self.model} is already started')
 
 
     def off_machine(self):
         if self.started:
-            print('Machine turned off')
+            print(f'{self.model} turned off')
             self.started = False
         else:
-            print('Machine is already turned off')
+            print(f'{self.model} is already turned off')
 
